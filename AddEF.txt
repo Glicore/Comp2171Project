@@ -1,0 +1,5 @@
+E10 130.4 2000 130400 November:week3 
+90 120.34 2000 120340 November:week3 
+87 135.65 7000 881725 November:week4 
+Desiel 170.45 7000 1107935 November:week4
+Premium 60 400 7000 March:week4
