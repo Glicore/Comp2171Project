@@ -1,3 +1,0 @@
-90 125.64 40 November:week3 1
-90 388.0 47 November:week3 2
-Deisel 400 7 March:week2 3
